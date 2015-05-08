@@ -1,0 +1,2 @@
+# Traffic-Light-System
+For this project you must code a concurrent Traffic Light System (TLS) example in Java. The TLS consists of an intersection between two streets traveled by cars. The TLS must manage access to the intersection by cars travelling in perpendicular directions. Your job is to program and simulate the TLS using Java multi-threading code. The TLS manages the lights at an intersection between a North-South (NS) street and an East-West (EW) street.
