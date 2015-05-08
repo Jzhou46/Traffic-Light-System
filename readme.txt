@@ -1,0 +1,3 @@
+To run this TLS(Traffic Light System) program, all you have to do is hit the run button on Eclipse. Once that is done, the program will run infinitely. 
+
+NOTE: The North-South direction light will stay green until a car appears in the East-West direction. A car will appear in the East-West direction randomly between 1sec - 60sec. If a car arrive before 30sec, the North-South light will wait 30sec before changing lights. Between changing lights from the red to green or green to red, the amber light will appear first, which will last 3sec. If East-West direction has green light, it will wait 20sec before changing. This will continue infinitely.
